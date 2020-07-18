@@ -1,2 +1,1 @@
-# Geeksforgeeks-placement-prep
-Placement preparation kit -  gfg
+# Data Structures & Algorithms in Python
